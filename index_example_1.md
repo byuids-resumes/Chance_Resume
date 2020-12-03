@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chance Lopata Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Chance Lopata
+Computer Scientist
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at BYU-I
 
 ### Specialized in
 
