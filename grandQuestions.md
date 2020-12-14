@@ -14,5 +14,7 @@ The repo was cloned to my computer using git through the command line. I took a 
 #### Push your results to GitHub and have another student fork your repository to make edits.
 Two other students forked my repo and created a generic file that had nothing to do with my resume. I pushed the resume to GitHub after they had already forked.
 #### Accept the proposed changes from the student review and finish your final version.
-I accepted the changes of one of the students because only one needed to be accepted.
+I accepted the changes of one of the students because only one needed to be accepted. The added file is called "G Fork".
 #### Make sure your resume is forked by BYU-I Data Science Resumes
+I am unsure how to make the organization fork my repo because I do not own it.
+My repo is here: https://github.com/chancelopata/Chance_Resume
