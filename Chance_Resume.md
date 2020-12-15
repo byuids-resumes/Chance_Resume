@@ -1,3 +1,6 @@
+---
+layout: cv
+title: Chance_Resume
 #Chance E. Lopata
 Contact: 770 329-2090  |  chancelopata@icloud.com | linkedin.com/in/chancelopata
 ###Education 
