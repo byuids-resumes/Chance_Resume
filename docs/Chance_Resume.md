@@ -1,8 +1,3 @@
----
-layout: cv
-title: Chance_Resume
----
-<!-- https://www.monique.tech/the-art-of-markdown -->
 # Chance E. Lopata
 770 329-2090  |  chancelopata@icloud.com | linkedin.com/in/chancelopata
 ### Education 
@@ -14,7 +9,7 @@ title: Chance_Resume
 Languages
 - Experienced: C++, Python
 - Novice: Swift, Java, Clojure, Javascript, html, CSS
-###Other Relevant Experience
+### Other Relevant Experience
 - Competent in navigating devices that run IOS, MacOS, Windows 10, or Linux operating systems
 - Experience with Android Studio and GitHub for mobile development
 - Experience using Altair, Pandas and Numpy packages for datascience in Python.
@@ -34,4 +29,3 @@ Braselton, GA: January 2015 - August 2015
 - Organizing merchandise
 - Working with guests including sales and customer service
 - Running organized events with up to 30 participants
-<!-- ### Footer Last updated: May 2013 -->
