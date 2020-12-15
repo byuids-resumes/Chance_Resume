@@ -2,6 +2,7 @@
 layout: cv
 title: Chance_Resume
 ---
+<!-- https://www.monique.tech/the-art-of-markdown -->
 #Chance E. Lopata
 Contact: 770 329-2090  |  chancelopata@icloud.com | linkedin.com/in/chancelopata
 ###Education 
@@ -33,3 +34,4 @@ Braselton, GA: January 2015 - August 2015
 - Organizing merchandise
 - Working with guests including sales and customer service
 - Running organized events with up to 30 participants
+<!-- ### Footer Last updated: May 2013 -->
