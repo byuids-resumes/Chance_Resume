@@ -6,7 +6,7 @@
 - GPA: 3.967
 - Graduation date: Winter 2022
 ### Tools and Skills 
-Languages
+`Languages`
 - Experienced: C++, Python
 - Novice: Swift, Java, Clojure, Javascript, html, CSS
 ### Other Relevant Experience
@@ -15,14 +15,14 @@ Languages
 - Experience using Altair, Pandas and Numpy packages for datascience in Python.
 ### Work Experience 
 #### Shift Supervisor 
-Meeple Madness
+`Meeple Madness`
 Braselton, GA: October 2017 - December 2018, August 2019 - December 2019
 Responsibilities include:
 - Overseeing daily operations of a $500,000 annual retail business
 - Leading the sales and customer service efforts of other staff members
 - Managing over 100,000 worth of store inventory using Lightspeed POS
 #### Original Crew Member
-Meeple Madness
+`Meeple Madness`
 Braselton, GA: January 2015 - August 2015
 - Assisted in establishing family business
 - Building inventory
