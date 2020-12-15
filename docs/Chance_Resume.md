@@ -1,5 +1,5 @@
 # Chance E. Lopata
-770 329-2090  |  chancelopata@icloud.com | linkedin.com/in/chancelopata
+770 329-2090  |  chancelopata@icloud.com | <a href="linkedin.com/in/chancelopata">Linkedin </a> | <a href="https://github.com/chancelopata/Chance_Resume"> Github </a>
 ### Education 
 #### Brigham Young University Idaho
 - Bachelors of Science in Computer science
